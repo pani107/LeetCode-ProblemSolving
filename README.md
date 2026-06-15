@@ -19,6 +19,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -28,6 +29,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@ learing with Knowledge
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
