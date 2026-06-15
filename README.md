@@ -16,6 +16,7 @@ learing with Knowledge
 | [0577-employee-bonus](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0584-find-customer-referee/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [1075-project-employees-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1075-project-employees-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
