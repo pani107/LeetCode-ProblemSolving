@@ -25,6 +25,7 @@ learing with Knowledge
 | [0035-search-insert-position](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0035-search-insert-position/) | Easy |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0136-single-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0704-binary-search/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -53,6 +54,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -66,6 +68,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
+| [0217-contains-duplicate](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
