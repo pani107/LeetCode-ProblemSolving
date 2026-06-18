@@ -65,13 +65,19 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
