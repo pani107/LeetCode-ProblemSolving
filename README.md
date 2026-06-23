@@ -84,6 +84,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
