@@ -89,6 +89,7 @@ learing with Knowledge
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,8 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
 <!---LeetCode Topics End-->
