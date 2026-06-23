@@ -81,6 +81,7 @@ learing with Knowledge
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
