@@ -24,6 +24,7 @@ learing with Knowledge
 | [0001-two-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0217-contains-duplicate/) | Easy |
@@ -40,6 +41,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -61,6 +63,7 @@ learing with Knowledge
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
