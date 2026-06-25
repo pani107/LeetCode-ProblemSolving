@@ -27,6 +27,7 @@ learing with Knowledge
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0704-binary-search/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -107,4 +108,8 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
