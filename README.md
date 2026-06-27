@@ -24,6 +24,7 @@ learing with Knowledge
 | [0001-two-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -98,6 +99,7 @@ learing with Knowledge
 | [0007-reverse-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
