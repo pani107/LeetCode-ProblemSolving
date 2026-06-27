@@ -33,6 +33,7 @@ learing with Knowledge
 | [0238-product-of-array-except-self](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0724-find-pivot-index/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -118,6 +119,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0724-find-pivot-index](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0724-find-pivot-index/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
