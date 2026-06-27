@@ -8,6 +8,6 @@ class Solution {
             else s = m + 1;
         }
         
-        return s;
+        return e;
     }
 }
