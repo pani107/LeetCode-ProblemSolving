@@ -51,6 +51,7 @@ learing with Knowledge
 | [0075-sort-colors](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ learing with Knowledge
 | [0069-sqrtx](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0367-valid-perfect-square/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -108,6 +110,7 @@ learing with Knowledge
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0367-valid-perfect-square/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Counting Sort
