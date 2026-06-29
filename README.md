@@ -111,6 +111,7 @@ learing with Knowledge
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0367-valid-perfect-square/) | Easy |
+| [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
@@ -140,8 +141,17 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1672-richest-customer-wealth/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
