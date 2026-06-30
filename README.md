@@ -42,6 +42,7 @@ learing with Knowledge
 | [0724-find-pivot-index](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -58,6 +59,7 @@ learing with Knowledge
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0283-move-zeroes/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@ learing with Knowledge
 | [0242-valid-anagram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
