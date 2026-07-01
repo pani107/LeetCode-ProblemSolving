@@ -126,6 +126,7 @@ learing with Knowledge
 | [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
