@@ -39,6 +39,7 @@ learing with Knowledge
 | [0238-product-of-array-except-self](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0283-move-zeroes/) | Easy |
+| [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -168,6 +169,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,8 +209,10 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
