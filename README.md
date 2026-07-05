@@ -128,6 +128,7 @@ learing with Knowledge
 | [0066-plus-one](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
@@ -186,6 +187,7 @@ learing with Knowledge
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -221,4 +223,8 @@ learing with Knowledge
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
