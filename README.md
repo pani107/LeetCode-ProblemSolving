@@ -22,6 +22,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -56,6 +57,7 @@ learing with Knowledge
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0042-trapping-rain-water/) | Hard |
@@ -83,6 +85,7 @@ learing with Knowledge
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0134-gas-station/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
