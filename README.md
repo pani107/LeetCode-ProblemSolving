@@ -196,6 +196,7 @@ learing with Knowledge
 | [0020-valid-parentheses](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,8 +235,10 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
