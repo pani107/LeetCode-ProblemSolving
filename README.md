@@ -23,6 +23,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -149,6 +150,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -220,6 +222,7 @@ learing with Knowledge
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0014-longest-common-prefix/) | Easy |
 | [0386-lexicographical-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
