@@ -52,6 +52,7 @@ learing with Knowledge
 | [1672-richest-customer-wealth](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -104,6 +105,7 @@ learing with Knowledge
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2974-minimum-number-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Bit Manipulation
@@ -199,6 +201,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0258-add-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
+| [2974-minimum-number-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2974-minimum-number-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,4 +255,8 @@ learing with Knowledge
 | [0225-implement-stack-using-queues](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
