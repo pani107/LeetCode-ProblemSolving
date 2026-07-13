@@ -169,6 +169,7 @@ learing with Knowledge
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1291-sequential-digits/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
