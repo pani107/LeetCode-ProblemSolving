@@ -144,6 +144,7 @@ learing with Knowledge
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
