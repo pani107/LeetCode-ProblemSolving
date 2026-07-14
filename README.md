@@ -126,6 +126,7 @@ learing with Knowledge
 | [0242-valid-anagram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ learing with Knowledge
 | [0387-first-unique-character-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
 | [0709-to-lower-case](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0709-to-lower-case/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
