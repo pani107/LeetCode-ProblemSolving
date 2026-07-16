@@ -54,6 +54,7 @@ learing with Knowledge
 | [2798-number-of-employees-who-met-the-target](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
@@ -147,6 +148,7 @@ learing with Knowledge
 | [2769-find-the-maximum-achievable-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
