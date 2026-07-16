@@ -166,6 +166,7 @@ learing with Knowledge
 | [0242-valid-anagram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0709-to-lower-case/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## String Matching
@@ -208,6 +209,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0258-add-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2974-minimum-number-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2974-minimum-number-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
