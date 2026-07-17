@@ -171,6 +171,7 @@ learing with Knowledge
 | [0657-robot-return-to-origin](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0709-to-lower-case/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3019-number-of-changing-keys/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
