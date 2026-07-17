@@ -51,6 +51,7 @@ learing with Knowledge
 | [0977-squares-of-a-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -145,6 +146,7 @@ learing with Knowledge
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2843-count-symmetric-integers/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
