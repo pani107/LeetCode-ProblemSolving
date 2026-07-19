@@ -92,6 +92,7 @@ learing with Knowledge
 | [0011-container-with-most-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0011-container-with-most-water/) | Medium |
 | [0134-gas-station](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0134-gas-station/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -171,6 +172,7 @@ learing with Knowledge
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0709-to-lower-case/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3019-number-of-changing-keys/) | Easy |
 ## String Matching
@@ -222,10 +224,12 @@ learing with Knowledge
 | [0042-trapping-rain-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0042-trapping-rain-water/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
