@@ -139,6 +139,7 @@ learing with Knowledge
 | [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0069-sqrtx/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
