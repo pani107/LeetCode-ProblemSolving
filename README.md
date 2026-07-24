@@ -115,6 +115,7 @@ learing with Knowledge
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0136-single-number/) | Easy |
@@ -138,6 +139,7 @@ learing with Knowledge
 | [0009-palindrome-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
@@ -169,6 +171,7 @@ learing with Knowledge
 | [0020-valid-parentheses](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
@@ -216,6 +219,7 @@ learing with Knowledge
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0657-robot-return-to-origin/) | Easy |
