@@ -52,6 +52,7 @@ learing with Knowledge
 | [0977-squares-of-a-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
@@ -73,6 +74,7 @@ learing with Knowledge
 | [0283-move-zeroes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0283-move-zeroes/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -180,6 +182,7 @@ learing with Knowledge
 | [0709-to-lower-case](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0709-to-lower-case/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3019-number-of-changing-keys/) | Easy |
 ## String Matching
