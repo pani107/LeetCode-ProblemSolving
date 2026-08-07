@@ -155,6 +155,7 @@ learing with Knowledge
 | [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
