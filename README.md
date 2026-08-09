@@ -39,6 +39,7 @@ learing with Knowledge
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0134-gas-station](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0136-single-number/) | Easy |
+| [0189-rotate-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -72,6 +73,7 @@ learing with Knowledge
 | [0042-trapping-rain-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0283-move-zeroes/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -147,6 +149,7 @@ learing with Knowledge
 | [0067-add-binary](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
