@@ -59,6 +59,7 @@ learing with Knowledge
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2974-minimum-number-game/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
@@ -139,6 +140,7 @@ learing with Knowledge
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,4 +308,8 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
