@@ -50,6 +50,7 @@ learing with Knowledge
 | [0704-binary-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0908-smallest-range-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -164,6 +165,7 @@ learing with Knowledge
 | [0492-construct-the-rectangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0908-smallest-range-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
