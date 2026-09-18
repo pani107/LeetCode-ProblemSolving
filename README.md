@@ -132,6 +132,7 @@ learing with Knowledge
 | [0136-single-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0342-power-of-four/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ learing with Knowledge
 | [0326-power-of-three](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0367-valid-perfect-square/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
@@ -195,6 +197,7 @@ learing with Knowledge
 | [0067-add-binary](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0709-to-lower-case/) | Easy |
