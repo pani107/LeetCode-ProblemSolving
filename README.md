@@ -166,6 +166,7 @@ learing with Knowledge
 | [0405-convert-a-number-to-hexadecimal](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0415-add-strings/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0492-construct-the-rectangle/) | Easy |
+| [0507-perfect-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0598-range-addition-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
