@@ -50,6 +50,7 @@ learing with Knowledge
 | [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0724-find-pivot-index/) | Easy |
+| [0812-largest-triangle-area](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0812-largest-triangle-area/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0908-smallest-range-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -170,6 +171,7 @@ learing with Knowledge
 | [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0598-range-addition-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0812-largest-triangle-area](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0812-largest-triangle-area/) | Easy |
 | [0908-smallest-range-i](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0908-smallest-range-i/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0989-add-to-array-form-of-integer/) | Easy |
@@ -328,4 +330,12 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0812-largest-triangle-area/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
