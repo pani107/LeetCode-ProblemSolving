@@ -24,6 +24,7 @@ learing with Knowledge
 | [0001-two-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -74,6 +75,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0042-trapping-rain-water/) | Hard |
@@ -114,6 +116,7 @@ learing with Knowledge
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0169-majority-element/) | Easy |
