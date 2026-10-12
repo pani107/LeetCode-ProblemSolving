@@ -49,6 +49,7 @@ learing with Knowledge
 | [0238-product-of-array-except-self](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0322-coin-change/) | Medium |
 | [0598-range-addition-ii](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0598-range-addition-ii/) | Easy |
 | [0682-baseball-game](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
@@ -243,6 +244,7 @@ learing with Knowledge
 | [0042-trapping-rain-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0118-pascals-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0322-coin-change](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -311,6 +313,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -376,4 +379,12 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0051-n-queens/) | Hard |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
