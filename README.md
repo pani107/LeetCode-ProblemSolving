@@ -259,6 +259,7 @@ learing with Knowledge
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0509-fibonacci-number/) | Easy |
@@ -393,5 +394,6 @@ learing with Knowledge
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
