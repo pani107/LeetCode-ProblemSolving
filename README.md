@@ -34,6 +34,7 @@ learing with Knowledge
 | [0074-search-a-2d-matrix](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0118-pascals-triangle/) | Easy |
@@ -208,6 +209,7 @@ learing with Knowledge
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0067-add-binary/) | Easy |
+| [0079-word-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -245,6 +247,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -286,10 +289,12 @@ learing with Knowledge
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0078-subsets](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0090-subsets-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0386-lexicographical-numbers/) | Medium |
