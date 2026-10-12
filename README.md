@@ -29,6 +29,7 @@ learing with Knowledge
 | [0033-search-in-rotated-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0066-plus-one/) | Easy |
@@ -291,6 +292,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0039-combination-sum](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0079-word-search/) | Medium |
