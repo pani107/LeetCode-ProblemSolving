@@ -309,6 +309,7 @@ learing with Knowledge
 | ------- | ------- |
 | [0079-word-search](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0101-symmetric-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
@@ -321,6 +322,7 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0101-symmetric-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
@@ -352,10 +354,12 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0101-symmetric-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0101-symmetric-tree/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
