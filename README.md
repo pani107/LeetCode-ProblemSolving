@@ -311,6 +311,7 @@ learing with Knowledge
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0101-symmetric-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0200-number-of-islands/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0695-max-area-of-island](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0695-max-area-of-island/) | Medium |
 ## Trie
@@ -355,11 +356,13 @@ learing with Knowledge
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0101-symmetric-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0101-symmetric-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,4 +414,12 @@ learing with Knowledge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0141-linked-list-cycle/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pani107/LeetCode-ProblemSolving/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
